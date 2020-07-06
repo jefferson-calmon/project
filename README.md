@@ -24,10 +24,11 @@ Veja uma página de exemplo clicando [aqui](https://mercado-ar.netlify.app/)
 
 ## :artificial_satellite: Tecnologias
 
-Para ser criado esse projeto foi nescessário as seguintes tecnologias:
+Para ser criado esse projeto foi necessário as seguintes tecnologias:
 
 - Dart
 - Flutter
+- Unity
 
 
 <a id="conclusion"></a>
